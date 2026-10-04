@@ -6,7 +6,6 @@
 - Клавишу можно переназначить: *Настройки → Управление → Обводка блоков → Настройки обводки блоков*.
 - В окне: ползунки Красный / Зелёный / Синий / Прозрачность (0–255), 8 готовых цветов, предпросмотр, кнопка «Готово».
 - Настройки сохраняются в `config/blockoutline.json`.
-
 Требуется: Minecraft 1.16.5, Fabric Loader, Fabric API.
 
 mod: changes the color and transparency of the outline for the block you are looking at.
