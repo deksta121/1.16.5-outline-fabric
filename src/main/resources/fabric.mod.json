@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "blockoutline",
+  "version": "${version}",
+  "name": "Outline 1.16.5 Fabric",
+  "description": "Меняет цвет и прозрачность обводки блока, на который вы смотрите. Настройки открываются назначаемой клавишей (по умолчанию O).",
+  "authors": [],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "ru.blockoutline.BlockOutlineMod"
+    ]
+  },
+  "mixins": [
+    "blockoutline.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.11.3",
+    "fabric": "*",
+    "minecraft": "1.16.x",
+    "java": ">=8"
+  }
+}

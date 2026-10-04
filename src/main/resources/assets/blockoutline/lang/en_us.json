@@ -1,0 +1,18 @@
+{
+  "key.blockoutline.open": "Block outline settings",
+  "category.blockoutline": "Block Outline",
+  "blockoutline.screen.title": "Block outline color",
+  "blockoutline.red": "Red: %s",
+  "blockoutline.green": "Green: %s",
+  "blockoutline.blue": "Blue: %s",
+  "blockoutline.alpha": "Opacity: %s",
+  "blockoutline.preset.red": "Red",
+  "blockoutline.preset.green": "Green",
+  "blockoutline.preset.blue": "Blue",
+  "blockoutline.preset.yellow": "Yellow",
+  "blockoutline.preset.white": "White",
+  "blockoutline.preset.cyan": "Cyan",
+  "blockoutline.preset.pink": "Pink",
+  "blockoutline.preset.black": "Black",
+  "blockoutline.done": "Done"
+}

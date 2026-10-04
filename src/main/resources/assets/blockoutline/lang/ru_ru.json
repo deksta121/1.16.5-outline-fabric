@@ -1,0 +1,18 @@
+{
+  "key.blockoutline.open": "Настройки обводки блоков",
+  "category.blockoutline": "Обводка блоков",
+  "blockoutline.screen.title": "Цвет обводки блока",
+  "blockoutline.red": "Красный: %s",
+  "blockoutline.green": "Зелёный: %s",
+  "blockoutline.blue": "Синий: %s",
+  "blockoutline.alpha": "Прозрачность: %s",
+  "blockoutline.preset.red": "Красный",
+  "blockoutline.preset.green": "Зелёный",
+  "blockoutline.preset.blue": "Синий",
+  "blockoutline.preset.yellow": "Жёлтый",
+  "blockoutline.preset.white": "Белый",
+  "blockoutline.preset.cyan": "Голубой",
+  "blockoutline.preset.pink": "Розовый",
+  "blockoutline.preset.black": "Чёрный",
+  "blockoutline.done": "Готово"
+}
